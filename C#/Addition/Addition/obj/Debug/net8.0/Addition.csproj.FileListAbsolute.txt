@@ -1,0 +1,14 @@
+C:\Users\carson\source\repos\Addition\Addition\bin\Debug\net8.0\Addition.exe
+C:\Users\carson\source\repos\Addition\Addition\bin\Debug\net8.0\Addition.deps.json
+C:\Users\carson\source\repos\Addition\Addition\bin\Debug\net8.0\Addition.runtimeconfig.json
+C:\Users\carson\source\repos\Addition\Addition\bin\Debug\net8.0\Addition.dll
+C:\Users\carson\source\repos\Addition\Addition\bin\Debug\net8.0\Addition.pdb
+C:\Users\carson\source\repos\Addition\Addition\obj\Debug\net8.0\Addition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carson\source\repos\Addition\Addition\obj\Debug\net8.0\Addition.AssemblyInfoInputs.cache
+C:\Users\carson\source\repos\Addition\Addition\obj\Debug\net8.0\Addition.AssemblyInfo.cs
+C:\Users\carson\source\repos\Addition\Addition\obj\Debug\net8.0\Addition.csproj.CoreCompileInputs.cache
+C:\Users\carson\source\repos\Addition\Addition\obj\Debug\net8.0\Addition.dll
+C:\Users\carson\source\repos\Addition\Addition\obj\Debug\net8.0\refint\Addition.dll
+C:\Users\carson\source\repos\Addition\Addition\obj\Debug\net8.0\Addition.pdb
+C:\Users\carson\source\repos\Addition\Addition\obj\Debug\net8.0\Addition.genruntimeconfig.cache
+C:\Users\carson\source\repos\Addition\Addition\obj\Debug\net8.0\ref\Addition.dll
